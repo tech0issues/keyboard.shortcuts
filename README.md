@@ -1,6 +1,6 @@
 # keyboard shortcuts
 
-[![keyboard shortcuts](get-detail.png)](https://computersolve.com/keyboard-shortcuts/)
+[![keyboard shortcuts](get-detail.png)](https://icncomputer.com/keyboard-shortcuts/)
 
 * Copy: Ctrl + C
 * Cut: Ctrl + X
